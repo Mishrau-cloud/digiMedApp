@@ -4,6 +4,7 @@
         "footer": "Creado con Azure AI Search + Azure OpenAI",
         "stopRecording": "Detener grabación",
         "startRecording": "Comenzar grabación",
+        "startConversation": "Comenzar conversación",
         "stopConversation": "Detener conversación"
     },
     "status": {

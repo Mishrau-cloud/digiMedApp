@@ -4,6 +4,7 @@
         "footer": "Azure AI Search + Azure OpenAI で構築",
         "stopRecording": "録音を停止",
         "startRecording": "録音を開始",
+        "startConversation": "会話を開始",
         "stopConversation": "会話を停止"
     },
     "status": {
